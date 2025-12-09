@@ -4,7 +4,7 @@
  - Хочу стать квалифицированным и опытным Программистом 1С.
 
 # Связь:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karpovdis)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" style="border-radius:50%">](https://t.me/karpovdis)
 
 # Языки и Инструменты:
-![1C](https://img.icons8.com/?size=100&id=9nnArlCrUbGb&format=png&color=000000)  ![Pyton](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
+![1C](https://img.icons8.com/?size=50&id=9nnArlCrUbGb&format=png&color=000000 )   ![Pyton](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
